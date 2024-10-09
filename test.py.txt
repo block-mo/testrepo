@@ -1,0 +1,7 @@
+//Below is a first test "Hello, world!" python script
+
+def hello():
+    return "Hello, World!"
+
+def test_hello():
+    assert hello() == "Hello, World!"
