@@ -1,7 +1,0 @@
-//Below is a second pull request test "Hello, world pull request file!" python script
-
-def hello():
-    return "Hello, World pull request file!"
-
-def test_hello():
-    assert hello() == "Hello, World pull request file!"
